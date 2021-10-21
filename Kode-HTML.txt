@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CONTOH WEBSITE SEDERHANA</title>
+</head>
+<body>
+<h1>CONTOH HEADING</h1>
+<p>CONTOH PARAGRAF</p>
+</body>
+</html>
