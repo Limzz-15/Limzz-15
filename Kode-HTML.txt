@@ -7,4 +7,30 @@
 <h1>CONTOH HEADING</h1>
 <p>CONTOH PARAGRAF</p>
 </body>
+</html> 
+
+
+
+!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">;
+
+
+<title>tipe data string</title>
+</head>
+<body>
+ <script>
+
+
+     document.writeln
+     document.writeln
+     document.writeln
+    
+
+
+
+
+ </script>    
+</body>
 </html>
